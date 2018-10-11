@@ -1,4 +1,4 @@
-def my_each(teachers)
-  teachers.collect do |teacher|
-  end
+def my_each(schools)
+  while schools.length < 9
+    return
 end
